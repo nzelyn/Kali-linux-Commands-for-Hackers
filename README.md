@@ -18,8 +18,8 @@ This repository aims to provide a comprehensive resource for individuals interes
 
 ## Contents
 
-- [100 Kali Linux Commands for Ethical Hackers and Penetration Testers]([https://github.com/nzelyn/Kali-linux-Commands-for-Hackers/blob/main/100%20Essential%20Kali%20Linux%20Commands%20for%20Penetration%20Testing%20and%20Ethical%20Hacking])
-- [50 Commonly Used Commands for Linux]([https://github.com/nzelyn/Kali-linux-Commands-for-Hackers/blob/main/50%20Essential%20Linux%20Commands%20for%20Efficient%20Command-Line%20Usage])
+- [100 Kali Linux Commands for Ethical Hackers and Penetration Testers](https://github.com/nzelyn/Kali-linux-Commands-for-Hackers/blob/main/100%20Essential%20Kali%20Linux%20Commands%20for%20Penetration%20Testing%20and%20Ethical%20Hacking)
+- [50 Commonly Used Commands for Linux](https://github.com/nzelyn/Kali-linux-Commands-for-Hackers/blob/main/50%20Essential%20Linux%20Commands%20for%20Efficient%20Command-Line%20Usage)
 - [Advanced Tips for Using Kali Linux](https://github.com/nzelyn/Kali-linux-Commands-for-Hackers/blob/main/Advanced%20Tips%20and%20Techniques%20for%20Mastering%20Kali%20Linux%3A%20Boosting%20Efficiency%20and%20Expanding%20Penetration%20Testing%20Skills)
 
 
